@@ -1,0 +1,4 @@
+What is Defect/Bug Life Cycle?
+Defect Life Cycle or Bug Life Cycle in software testing is the specific set of states that defect or bug goes through in its entire life. 
+The purpose of Defect life cycle is to easily coordinate and communicate current status of defect which changes to various assignees and make
+ the defect fixing process systematic and efficient.

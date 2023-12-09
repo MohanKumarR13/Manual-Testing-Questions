@@ -1,0 +1,3 @@
+Defect Vs Bug
+-------------
+A Deviation between Actual and expected behaviour of the application

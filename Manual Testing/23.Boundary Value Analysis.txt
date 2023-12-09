@@ -1,0 +1,22 @@
+Boundary value analysis is one of the widely used case design technique for black box testing. 
+It is used to test boundary values because the input values near the boundary have higher chances of error.
+
+Whenever we do the testing by boundary value analysis, the tester focuses on, while entering boundary value whether the software is producing correct output or not.
+
+Boundary values are those that contain the upper and lower limit of a variable. Assume that, age is a variable of any function, and its minimum value is 18 
+and the maximum value is 30, both 18 and 30 will be considered as boundary values.
+
+The basic assumption of boundary value analysis is, the test cases that are created using boundary values are most likely to cause an error.
+
+There is 18 and 30 are the boundary values that's why tester pays more attention to these values, but this doesn't mean that the middle values like 19, 20, 21, 27, 29 are ignored. 
+Test cases are developed for each and every value of the range.
+
+Testing of boundary values is done by making valid and invalid partitions. Invalid partitions are tested because testing of output in adverse condition is also essential.
+
+Let's understand via practical:
+
+Imagine, there is a function that accepts a number between 18 to 30, where 18 is the minimum and 30 is the maximum value of valid partition, the other values of this partition are 19, 20, 21, 22, 23, 24, 25, 26, 27, 28 and 29. The invalid partition consists of the numbers which are less than 18 such as 12, 14, 15, 16 and 17, and more than 30 such as 31, 32, 34, 36 and 40. Tester develops test cases for both valid and invalid partitions to capture the behavior of the system on different input conditions.
+
+Boundary Value Analysis
+
+Min,Min+1,Max,Max-1

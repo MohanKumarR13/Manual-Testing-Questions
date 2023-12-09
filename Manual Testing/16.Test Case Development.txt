@@ -1,0 +1,12 @@
+What is test cases ?
+---------------------
+A step by step instruction wriiten in detailled manner with steps to be performed and expected result for
+any given functionality is called test case
+
+Where to writw a test case?
+In companies test cases are written any of the test management software like HP,ALM,qTest,TestRail,Raily etc
+
+When you are learner and if you refer any blogs or youtube videos,you might have seen the test cases
+written in a excel file
+
+But,that will not give us a better satisfication we are going to use a free test management software called Test Coolab

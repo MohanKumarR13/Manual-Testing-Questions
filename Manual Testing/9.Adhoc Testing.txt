@@ -1,0 +1,16 @@
+What is Adhoc Testing ?
+-----------------------
+Adhoc-Impromptu-> Done without being planned organized or rehearsed
+Testing an application randomly by using logical
+or illogical scenarios and check whether the application
+has any bugs or not is called the adhoc testing
+
+it is a negative testing
+Doesn't have any kind of documented process to be followed
+
+Bug bounty programs 
+Indian engineer gets $12,500 bounty for findiing a faccebook bug that let anyone delete pictures
+
+Types:Buddy->Dev+ Tester
+Pair->Pair of testers
+Monkey or Gorila->

@@ -1,0 +1,21 @@
+Error Guessing Technique
+The test case design technique or methods or approaches that need to be followed by every test engineer while writing the 
+test cases to achieve the maximum test coverage. If we follow the test case design technique, 
+then it became process-oriented rather than person-oriented.
+
+The test case design technique ensures that all the possible values that are both positive and negative are required for the testing purposes. 
+
+In software testing, we have three different test case design techniques which are as follows:
+Error Guessing
+Equivalence Partitioning
+Boundary Value Analysis[BVA]
+
+The main purpose of this technique is to identify common errors at any level of testing by exercising the following tasks:
+
+Enter blank space into the text fields.
+Null pointer exception.
+Enter invalid parameters.
+Divide by zero.
+Use maximum limit of files to be uploaded.
+Check buttons without entering values.
+The increment of test cases depends upon the ability and experience of the tester.

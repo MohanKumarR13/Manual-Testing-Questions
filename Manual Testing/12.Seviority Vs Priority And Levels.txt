@@ -1,0 +1,53 @@
+What is seviority ?
+-------------------
+It is a measure to indicate the impact of a bug/defect can have on the software product
+
+Based on the threat it cause to the product,seviority is categorized into below
+1.Low 2.Minor 3.Major 4.Crictical
+
+What is Priority ?
+------------------
+Bug Priority refers to how urgently a bug needs to be fixed
+
+Level of Bug priority
+---------------------
+Low: The bug can be solved later. Other, more detrimental bugs take precedence.
+Medium: A bug that can be rectified during standard development and testing.
+High: The bug must be fixed as soon as possible because it has a negative impact on the application and makes it useless until it is solved.
+
+In most cases priority and seviority is proportional
+
+1. High Severity and Low Priority Example
+-------------------------------------------
+In legacy browsers, your website’s home page renders poorly. The logo doesn’t load, or the text overlaps. 
+The functionality and user experience of the product are being hampered.
+
+Hence the severity of the bug is high. Although it will only bring in a few visits because we’re talking about the old browser, 
+it could be regarded as a low priority.
+
+2. High Severity and High Priority Example
+---------------------------------------------
+As a website tester for a SaaS company, let’s say you test your website on Chrome and have no problems with how it looks or feels. 
+However, the text and frames on the pricing page appear distorted if you switch from Google Chrome to Internet Explorer.
+
+Both the buttons for purchasing the plans and the pricing you were provided based on the features included in a plan have vanished. 
+Consumers might not comprehend what they are getting for what price. In addition, the buttons are missing, so even if they wanted to buy them, they couldn’t.
+
+High Severity because the buyer is not shown the pricing grid, resulting in a barrier to purchasing the product.
+
+High Priority because the problem must be fixed right away because it prevents the sale of the product.
+
+3. Low Severity and High Priority Example
+---------------------------------------------
+You’re attempting to test the website’s functionality. When the website is invoked in the most recent version of Google Chrome, 
+the buttons can be seen to overlap slightly. Even if they can still be clicked on separately, the visual representation is becoming unsteady.
+
+There are a few minor alignment concerns on the website. Even though it doesn’t look good, the user can still enjoy browsing the internet.
+
+4. Low Severity and Low Priority Example
+-------------------------------------------
+You may have discovered a typo while checking a website’s privacy statement or disclaimer, or you may have discovered that the font and colour scheme 
+needs to match the overall design of your website. 
+
+Although it doesn’t affect your web app’s functioning and also because most users wouldn’t see it, it is not as it should be. 
+Hence it is a bug. Maintaining a low severity and low priority would be acceptable since it doesn’t have to be fixed immediately. 

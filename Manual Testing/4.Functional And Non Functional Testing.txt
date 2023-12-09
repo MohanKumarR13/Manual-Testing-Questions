@@ -1,0 +1,10 @@
+Functional:
+-----------
+1.Link Navigation
+2.Search the Data
+3.One Product Function is properly worked or not
+
+Non Functional
+---------------
+Comparatively or Scalable Performance
+How Much of Load Taken and Performance Measure

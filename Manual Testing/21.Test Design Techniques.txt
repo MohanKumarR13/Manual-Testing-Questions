@@ -1,0 +1,7 @@
+Test Design Techniques
+----------------------
+Test design techniques are methods used to create test cases that cover all possible scenarios and use cases of the 
+software application being tested. Several test design techniques are available, each with its own strengths and weaknesses.
+In this chapter, we will discuss some of the popular test design techniques. We will see some common techniques, 
+such as equivalence partitioning and boundary value analysis, and some more obscure but quite useful in 
+complex situations, such as pairwise testing and modified condition decision coverage.

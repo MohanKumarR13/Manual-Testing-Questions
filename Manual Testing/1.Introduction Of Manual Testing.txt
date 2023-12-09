@@ -1,0 +1,24 @@
+Introduction to Manual Testing
+==============================
+1.What is a Software?
+2.What is Software Testing?
+3.How a software is developed?->SDLC(Waterfall,Agile)
+  SDLC
+  i).Requirements Analysis
+  ii).Design
+  iii).Test
+  iv).Deploy
+  STLC
+Requirement Analysis
+  i)Test Planing
+  ii).Test Case Development
+  iii).Test Environment
+  iv).Test Excecution
+      Bug Reporting
+      Retesting
+      Regression
+      Test Cycle Closure
+4.Why do we need to test the software?
+  To Deliver a flawless product to the customer some examples.
+
+<---Cheating Frenchman sues Uber for tipping off wife about affair--->

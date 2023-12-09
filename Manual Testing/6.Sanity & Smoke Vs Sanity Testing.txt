@@ -1,0 +1,31 @@
+Sanity Testing
+--------------
+Sane x Insane
+Insane= Mad,Not Being Rational or Unacceptable for common sense
+Sane= Common Sense,Rational
+
+Why Is Sanity Testing ?
+------------------------
+Performed After a new build is received
+This new Build could be a resultant of inclusion of new functionality or due to bug fix
+
+Difference Between Smoke And Sanity Testing
+--------------------------------------------
+Smoke Testing
+=============
+1.To Test Crictical Functionalities are working fine and assure the Stability
+  of the build.
+2.Done by testers
+3.The Crictical Subset of test case would have already be written and maintained in an test management tool like (ALM or qTest),
+  Hence it is a well documented process
+4.The Testing team is deciding whether to accept or reject this build,so it can be a subset of Acceptance Testing
+5.Crucial Scenario's of the entire system will be tested
+
+Sanity Testing
+==============
+1.To Check the new functionality is working fine or the bugs have been fixed and is working fine and assure the rationality.
+2.Done By testers
+3.It is Undocumented as per conventional methodologies,But today mos companies recommened the best practice
+  of writting a test case for any bug introduced.so it is kind of documented in some way.
+4.Since we are doing this test after a code change or bug fix this can be subset of regression testing
+5.Particular Component of the entire system will be tested

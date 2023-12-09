@@ -1,0 +1,10 @@
+Regression Testing is the process of testing the modified parts of the code and the parts that might get affected due to the modifications to ensure that no new errors have been introduced in the software after the modifications have been made. Regression means return of something and in the software field, it refers to the return of a bug.
+
+When to do regression testing?
+
+When a new functionality is added to the system and the code has been modified to absorb and integrate that functionality with the existing code.
+When some defect has been identified in the software and the code is debugged to fix it.
+When the code is modified to optimize its working.
+
+No new Issues should be introduced across the entire system
+Non technical regression example

@@ -1,0 +1,21 @@
+What is Test Scenarios?
+-----------------------
+It is a breakup of a business requirement presented from of possible use cases with the help of
+scenarios can provide more test coverage for the functionalities of the application
+In simple words it is a functionality to be tested
+
+Examples
+--------
+1.Check if the user is able to send multimedia files while chatting
+2.Check if the user is able to make an audio call
+3.Check if the user is able to put status
+4.Check if the users is NOT able to send files more than 300 MB through attachments
+
+These scenarios can be further split into test cases which contains steps on how to perform the tests
+
+Drawback if you are writting only scenarios
+-------------------------------------------
+Imagine the feature files that we have writtern while learning Cucumber Lets say if we eliminate the given 
+When the statements from the scenario we will be having only the name of the scenario and if someone is new
+to the system uner test he or she will not be aware of the steps to be followed with just the name of the 
+scenario in that case test cas will be most helpful

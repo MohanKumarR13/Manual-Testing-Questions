@@ -1,0 +1,11 @@
+State Transition Technique
+---------------------------------
+The general meaning of state transition is, different forms of the same situation, and according to the meaning, 
+the state transition method does the same. It is used to capture the behavior of the software application when different 
+input values are given to the same function.
+
+We all use the ATMs, when we withdraw money from it, it displays account details at last. Now we again do another transaction, 
+then it again displays account details, but the details displayed after the second transaction are different from the first transaction, 
+but both details are displayed by using the same function of the ATM. So the same function was used here but each time the output was different, 
+this is called state transition. In the case of testing of a software application, this method tests whether the function is following state transition s
+pecifications on entering different inputs.

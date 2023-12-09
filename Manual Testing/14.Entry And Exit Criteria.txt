@@ -1,0 +1,148 @@
+Entry And Exit Criteria
+=======================
+Entry Criteria : A set of conditions to be met/satisefied before an activity can begin
+
+Entry Criteria : A set of conditions to be met/satisefied before an activity can be conclusion
+
+Both these criterias are applicable for all the phases of STLC
+
+Practically speaking,we can't follow the entry and exit criterias in a strict manner
+
+Entry criteria Test Case Development
+====================================
+Name
+----                                           
+Frozen requirement for the chosen module
+to be ddeveloped on this sprint
+
+Description
+-----------
+Aim is to have all the requirements to be frozen
+and there shouldn't be any dynamic requirement change during the sprint
+
+Condition
+---------
+dynamic change in requirement is less than
+
+Target
+------
+0
+
+Entry criteria Regression Testing
+====================================
+Name
+----                                           
+Pass Percentage of sanity and smoke
+
+No new bugs introduced after sanity and smoke
+
+Description
+-----------
+Aim is to have the pass percentage of sanity and smoke to be 100%
+Aim is to have the zero bugs introduced
+Condition
+---------
+Equal to
+Equal to
+
+Target
+------
+100%
+0
+
+Exit criteria Release
+====================================
+Name
+----                                           
+Number of open high seviority and high priority bugs
+Number of low priority bugs
+Percentage of failed status for the test suite
+
+Description
+-----------
+Aim is to have all the high severe and top most priority bugs closed
+Aim is to not have less than 5 percentage
+Aim is to have failed status to be less than 5 percentage
+
+Condition
+---------
+Equal to
+Less than
+Less than
+
+Target
+------
+0
+10%
+5%
+
+Exit criteria Regression
+====================================
+Name
+----                                           
+Pass percentage of regression
+No new high priority bugs introduced
+
+Description
+-----------
+Aim is to have the pass percentage of regression to be as close to 100%
+Aim is to have zero bugs introduced
+
+Condition
+---------
+Greater Than
+Equal to
+
+Target
+------
+97%
+0
+
+Exit criteria Automation code handover
+======================================
+Name
+----                                           
+Code has been reviewed by peers
+Code quality check using Sonar Qube
+
+Description
+-----------
+Aim is to have the automation code reviewed by atlease 2 peers
+Aim is to have bugs and vulnerabilities
+
+Condition
+---------
+Greater Than or Equal to
+Equal to
+
+Target
+------
+2%
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

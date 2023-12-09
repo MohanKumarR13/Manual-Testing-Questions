@@ -1,0 +1,8 @@
+Use Case Technique
+-----------------------
+The use case is functional testing of the black box testing used to identify the test cases from the beginning 
+to the end of the system as per the usage of the system. By using this technique, the test team creates a test 
+scenario that can exercise the entire software based on the functionality of each function from start to end.
+
+It is a graphic demonstration of business needs, which describe how the end-user will cooperate with the software 
+or the application.

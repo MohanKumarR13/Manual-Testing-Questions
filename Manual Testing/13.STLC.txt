@@ -1,0 +1,49 @@
+STLC->Software Test Life Cycle
+-------------------------------
+Requirement Analysis
+Test Plan
+Test Case Development
+Test Environment setup
+Test Excecution
+Test Cycle Closure
+
+Requirement Analysis
+=====================
+What will happen in this phase ?
+1.Testing team studies the functional and non functional requirements from testing point of view
+2.Automation feasibility for the testing project is also done in this stage
+3.Find out what types of tests to be done
+4.Create Requirement Traceability Matrix.
+
+Test Plan
+=========
+A test plan is a detailed document that details the test strategy,onjectives,schedule,estimation,deadlines and the
+resources required for completing that particular project
+
+It is a blueprint for running the tests needed to ensure the software is working properly maintained by test Architects or test manager
+Note: test Planning to be covered as a separate 
+
+Test Case Development
+======================
+Once the test plan is ready the test data is collected for the testing and then the test
+cases are written and reviewed
+Note: test Planning to be covered as a separate
+
+Test Environment setup
+=====================
+Mostly this will done by operations team or sometimes,Dev team
+When the environment is setup smoke test is performed
+
+Test Excecution
+===============
+This is the regular part of work for the testers
+Excecuting the test cases finding the bugs,tracking the bugs to closure,retesting,mapping defects to test cases in RTM are activiities comes under this phase
+
+Test Cycle Closure
+==================
+Test Completion,collection of test results and report metrics
+analyse the artifacts obtained in this cycle and plan for effective future testing
+
+
+
+

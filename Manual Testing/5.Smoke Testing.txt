@@ -1,0 +1,15 @@
+1.What is Smoke Testing
+  To find whether the build is stable or not by testing whether the most critical component are working or not
+
+Other names: Confidence testing,BVT(Build Verification Testing
+Build Acceptance Test,Tester Acceptance Testing Not User Acceptance Testing)
+
+2.Why do we need to do smoke testing ?
+  Has Chiti been created with Asimov Rule in mind ?-> Smoke Testing
+  To save effort and time
+
+3.A Simple Flow
+  -------------
+  Dev team Released Build-->QA Team Performs Test on Crictical Components
+  ->Build is Stable->Further Testing (Functional Testing)->Build Fails
+  ->Sent Back to Developer 

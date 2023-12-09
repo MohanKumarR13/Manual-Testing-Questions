@@ -1,0 +1,10 @@
+What is white box testing or Unit testing (DEV)?
+
+Internal Structure
+Design And Coding of Software are tested to verify flow of input-output and to improve design,usability and security
+
+Loops,
+Conditional Statements,
+Expected Output,
+Any loophole in code which is may lead to security threat
+Each And Every function written in the code

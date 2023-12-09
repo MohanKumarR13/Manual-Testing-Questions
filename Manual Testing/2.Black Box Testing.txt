@@ -1,0 +1,9 @@
+1.What is Black Box Testing ?
+99 % of the testing that QA team does comes under black box testing
+Infact,Even if you are not a QA Professional.you have done black box testing.
+
+2.How to black box testing ?
+
+3.Types
+
+4.Techniques

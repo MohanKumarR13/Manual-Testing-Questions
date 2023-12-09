@@ -1,0 +1,19 @@
+What is Agile Testing ?
+
+Tradtionally,testing was a separate activity that came after the coding phase,in agile testing is a continous process
+testers arrre placed between product owner and developers this creates an ongoing feedback loop which helps
+develoers improve their code
+
+Agile testing A practical guide for testers and Agile Team -Lisa and Janet Gregory
+----------------------------------------------------------------------------------
+1.Deliver value to the customer
+2.Provide Continous feedback (it should be quick feedback as well,IMO)
+3.Enable face to face communication
+4.Have Courage
+5.Keep it simple
+6.Respond to change
+7.Practice Continous Improvement
+8.Self-Organize
+9.Focus on people
+10.Enjoy
+11.Less Documentation

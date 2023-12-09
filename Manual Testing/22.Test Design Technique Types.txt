@@ -1,0 +1,65 @@
+Specification Based Techniques
+--------------------------------
+1. Specification-based or Black-box techniques
+
+Equivalence Partitioning:
+The idea of this approach is grouping the inputs with the same attributes to partitions. Code is not visible to testers. 
+Your task is to pick one condition out of each partition, which covers all possible scenarios, to execute test cases. 
+If a condition of a partition is valid, other conditions are valid too. Likewise, if a condition in a partition is invalid, other conditions are also invalid. 
+This helps reduce the number of test cases.
+
+Example
+--------
+Grade       Grade Point          Mark Range
+O           10                   91-100
+A+          9                    81-90
+
+Boundary Value Analysis:
+This is one of the software testing techniques in which test cases are designed to include values at the boundaries. 
+If the input is within the boundary value, it is considered ‘Positive testing.’ If the input is outside of the boundary value, 
+it is considered ‘Negative testing.’ The goal is to select test cases to execute boundary values. 
+In other words, the behavior of Negative testing is more likely to be incorrect than the behavior of Positive testing; 
+and boundaries are an area in which testing is more likely to yield defects.
+
+Decision Table Testing:
+This technique can be used in test design because it helps testers explore the effects of combining different input 
+values when adhering business rules. A Decision Table is a tabular representation of conditions versus test actions. 
+Conditions are considered as inputs, while actions are considered as outputs.
+
+State Transition Diagrams:
+Using this approach, the tester analyzes the behavior of an application under test (AUT) for different input conditions in a sequence. 
+You can provide both positive and negative input test values and record the system behavior. Any system in which you get a different output for the same 
+input is a finite state system.
+Use Case Testing:
+Use case testing is a functional testing technique, meaning programming skill is not required. 
+It helps the tester determine which test scripts are executed on the entire system from the beginning to the end of each transaction.
+
+
+2. Structure-based or White-Box techniques
+
+Statement Coverage or Line Coverage:
+In this technique, every statement in the source code is executed at least once. Thereby, we can check what the source code is and is not expected to do. 
+However, we cannot test the false condition in the source code.
+Statement coverage = (No. of statements Executed/Total no. of statements in the source code)*100
+
+Condition Coverage or Predicate Coverage:
+Condition coverage is seen for Boolean expression. Condition coverage ensures whether all the Boolean expressions have been covered and evaluated
+to both TRUE and FALSE.
+
+Decision Coverage or Branch Coverage:
+Test coverage criteria require enough test cases so that each condition in a decision takes on all possible outcomes at least once, 
+and each point of entry to a program or subroutine is invoked at least once. That is, every branch (decision) is either true and false. 
+It is helpful to invalidate all branches in the code to make sure that no branch leads to any abnormal behavior.
+
+Multiple Condition Coverage:
+Every combination of ‘true’ or ‘false’ for the conditions related to a decision has to be tested in this technique
+
+3. Experience-based technique
+
+Exploratory Testing:
+Usually, this process is carried out by domain experts. They perform testing just by exploring the functionalities of the application without having the knowledge 
+of the requirements.Testers can explore and learn the system while using these techniques. High severity bugs are found very quickly in this type of testing.
+
+Error Guessing:
+Error guessing is one of the testing techniques used to find bugs in a software application based on the tester’s prior experience. 
+In Error guessing, no specific rules are applied.
