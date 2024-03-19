@@ -2,7 +2,7 @@ Entry And Exit Criteria
 =======================
 Entry Criteria : A set of conditions to be met/satisefied before an activity can begin
 
-Entry Criteria : A set of conditions to be met/satisefied before an activity can be conclusion
+Exit Criteria : A set of conditions to be met/satisefied before an activity can be conclusion
 
 Both these criterias are applicable for all the phases of STLC
 
