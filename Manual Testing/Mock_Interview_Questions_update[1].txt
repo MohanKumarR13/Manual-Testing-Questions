@@ -47,7 +47,7 @@ Sigle table,Single Query,Sub Query,Max Function,Customer table,Group event,Joins
 1.White and Black box testting
 2.Static and dynamic testing
 3.Functional and Non Functional Testing
-4.Adhoc Testing =>Need Requirement
+4.Adhoc Testing =>No Need Requirement
 5.Explority Testing
 6.Smoke and Sanity testing Done By(Dev and Tester)
 7.Difference Between Build and Release
