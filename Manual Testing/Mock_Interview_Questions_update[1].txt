@@ -75,7 +75,7 @@ Sigle table,Single Query,Sub Query,Max Function,Customer table,Group event,Joins
    Quit the entire browser and terminate the WebDriver session: driver.quit();
 28.Closing Multiple Browser based on their choice
 29.Get Window Handle and Ge Window Handles
-30.What is the use of Action Class
+30.What is the use of Actions Class
 31.What is the method use i right click
 32.Difference Between Action and Actions
 33.How to Handle Dropdown
